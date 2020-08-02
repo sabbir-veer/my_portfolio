@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\web development tutorials\\web_dev_hstu"
+		},
+		{
+			"path": "..\\..\\..\\web development tutorials\\web_dev_hstu\\my Portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web_dev_hstu"
+	}
+}

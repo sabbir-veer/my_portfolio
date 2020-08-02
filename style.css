@@ -109,13 +109,13 @@ button:active{
     transform: scale(1.1);
 }
 .model {
-    /* height: 560px; */
+    height: 560px;
     position: absolute;
     width: 35em;
-    height: 36em;
+    /* height: 36em; */
     bottom: 2em;
     left: 75%;
-    transform: translateX(-70%);
+    transform: translateX(-60%);
     
 }
 .about-container{
